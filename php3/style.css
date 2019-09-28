@@ -1,0 +1,100 @@
+.headering{
+    width:50%;
+    background-color: lightgoldenrodyellow;
+    margin: 30px auto;
+    text-align: center;
+    border: 1px solid ;
+    border-radius: 30px;
+}
+.headering h2 {
+
+    font-size: 30px;
+    color: grey;
+}
+
+form{
+    width: 50%;
+    margin:30px auto;
+    border-radius: 5px;
+    background:lightgoldenrodyellow ;
+    border:1px solid black;
+    padding: 20px;
+    text-align: center;
+}
+
+form input{
+    width: 40%;
+    padding: 10px;
+    border-radius: 10px;
+
+}
+
+
+
+.text_input{
+    width: 40%;
+    padding: 10px;
+}
+
+.submit_btn{
+    height: 40px;
+    border-radius: 10px;
+}
+
+table{
+    width: 50%;
+    margin:30px auto;
+    border-collapse: collapse;
+}
+.title{
+    text-align: center;
+    color: #757070;
+    background-color: white;
+    margin-right: 25%;
+    margin-left: 25%;
+}
+
+.name_td{
+    width: 40%;
+    text-align: center;
+    border-right: 1px solid grey;
+    border-left: 1px solid grey;
+
+}
+
+.text_td{
+    width: 40%;
+    text-align: center;
+    border-right: 1px solid grey;
+
+
+}
+.delet_td{
+    /*width: 40%;*/
+    text-align: center;
+}
+.update_td{
+    width: 50%;
+    text-align: center;/
+}
+.view_td{
+    padding-right: 5px  ;
+    /*width: 20%;*/
+    text-align: center;
+}
+
+th {
+    text-align: center;
+    color: grey;
+    /*border-right:1px solid grey;*/
+}
+tr {
+    border: 1px solid grey;
+}
+
+body{
+    background: #bae0d5;
+}
+.title-view{
+    background-color: red;
+}
